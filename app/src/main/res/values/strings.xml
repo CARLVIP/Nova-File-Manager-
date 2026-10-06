@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Nova Files</string>
+    <string name="storage_internal">Internal Storage</string>
+    <string name="storage_used">Used</string>
+    <string name="storage_free">Free</string>
+    <string name="category_images">Images</string>
+    <string name="category_videos">Videos</string>
+    <string name="category_audio">Audio</string>
+    <string name="category_docs">Documents</string>
+    <string name="category_downloads">Downloads</string>
+    <string name="category_archives">Archives</string>
+    <string name="category_recent">Recent</string>
+    <string name="category_favorites">Starred</string>
+    <string name="category_trash">Trash</string>
+    <string name="action_new_folder">New Folder</string>
+    <string name="action_new_file">New File</string>
+    <string name="action_import">Import</string>
+    <string name="action_export">Export</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_cut">Cut</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Search files…</string>
+    <string name="action_clean">Storage Cleaner</string>
+</resources>
